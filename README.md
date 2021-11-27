@@ -14,4 +14,4 @@ My name is Local Area Network (guess the pun? 😄 ). I am currently a Technical
 - 🎥 Video Tutorial: [Install a custom visualization to a Looker instance](https://www.youtube.com/watch?v=WPEmRRS003E)
 - 🎥 Video Tutorial: [Debug LookML errors "Inaccessible views/fields"](https://www.youtube.com/watch?v=ePvKcwV8Kmg)
 
-Feel free to contact me at [Twitter](https://twitter.com/lantran25), [Looker Community](https://community.looker.com/members/lan-7192) 👋
+Feel free to contact me at [Twitter](https://twitter.com/lantran25), [Linkedin](https://www.linkedin.com/in/lantran25/), [Looker Community](https://community.looker.com/members/lan-7192)
