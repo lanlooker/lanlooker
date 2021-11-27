@@ -10,7 +10,7 @@ My name is Local Area Network (guess the pun? 😄 ). I am currently a Technical
 - 👩‍💻 Code: [Run a Looker query and writing the result to a BigQuery table]()
 - 👩‍💻 Code: [Automate tasks in Looker using Python SDK](https://github.com/looker-open-source/sdk-codegen/tree/main/examples/python) 
 - 👩‍💻 Code: [Model BigQuery nested data structure in Looker](https://github.com/lanlooker/Looker-Tutorials)
-- 💻 Code: [Run machine learning models using BQML in Looker](https://github.com/lanlooker/Looker-Tutorials)
+- 👩‍💻 Code: [Run machine learning models using BQML in Looker](https://github.com/lanlooker/Looker-Tutorials)
 - 🎥 Video Tutorial: [Install a custom visualization to a Looker instance](https://www.youtube.com/watch?v=WPEmRRS003E)
 - 🎥 Video Tutorial: [Debug LookML errors "Inaccessible views/fields"](https://www.youtube.com/watch?v=ePvKcwV8Kmg)
 
