@@ -4,7 +4,7 @@
 **lanlooker/lanlooker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-My name is Local Area Network (get the pun? 😄 ). I am currently a Technical Solutions Engineer at [Looker](https://looker.com/), Google Cloud's data platform. My goal is to increase developers' efficiency by providing comprehensive and easy-to-follow code snippets, debugging guides, and tutorials. Check out some of my work below: 
+My name is Local Area Network (get the pun? 😄 ). I am currently a Customer Solutions Engineer at Google, focusing on data pipelines for advertising and machine learning. In my previous role, I worked on [Looker](https://looker.com/), Google Cloud's data platform. Check out some of my work below: 
 
 - 👩‍💻 Code: [Run a Looker query and writing the result to a BigQuery table]()
 - 👩‍💻 Code: [Automate various Looker tasks with Python SDK](https://github.com/looker-open-source/sdk-codegen/tree/main/examples/python) 
