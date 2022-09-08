@@ -13,5 +13,6 @@ My name is Local Area Network (get the pun? 😄 ). I am currently a Customer So
 - 🎥 Video Tutorial: [Install a custom visualization to a Looker instance](https://www.youtube.com/watch?v=WPEmRRS003E)
 - 🎥 Video Tutorial: [Debug LookML errors "Inaccessible views/fields"](https://www.youtube.com/watch?v=ePvKcwV8Kmg)
 - 🎥 Video Tutorial: [Create new Looker users from reading email addresses in a Google Sheet](https://www.youtube.com/watch?v=hQMZ5w9v4aA)
+- 🎥 Video Tutorial: [Send data from Looker to BigQuery with Cloud Functions and Looker Actions](https://www.youtube.com/watch?v=6hzb-j_VfnI)
 
 Feel free to contact me at [Twitter](https://twitter.com/lantran25), [Linkedin](https://www.linkedin.com/in/lantran25/), [Looker Community](https://community.looker.com/members/lan-7192)
